@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1459578244 source:d:\workspace\testtime\main.cpp
+	<iostream>
+	<time.h>
+	<stdio.h>
+

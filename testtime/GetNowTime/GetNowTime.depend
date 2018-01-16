@@ -1,5 +1,0 @@
-# depslib dependency file v1.0
-1515290556 source:d:\tent\testtime\getnowtime\getnowtime.cpp
-	<iostream>
-	<ctime>
-
